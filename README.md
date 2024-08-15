@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Dashboard-using-Power-BI
+# MadhavSales-PowerBI-Dashboard
 
 ## Madhav Sales Data Dashboard
 
