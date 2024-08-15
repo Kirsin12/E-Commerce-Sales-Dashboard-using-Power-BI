@@ -1,6 +1,4 @@
-# MadhavSales-PowerBI-Dashboard
-
-## Madhav Sales Data Dashboard
+## MadhavSales-PowerBI-Dashboar
 
 __Project Overview__
 This repository contains a Power BI dashboard created to analyze sales data for Madhav Sales. The dashboard provides insights into various aspects of the sales process, including order details, customer information, and overall sales performance.
